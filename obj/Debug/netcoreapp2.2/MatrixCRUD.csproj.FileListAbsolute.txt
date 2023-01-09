@@ -1,0 +1,4 @@
+C:\MeusProjetosDEV\MatrixCRUD\obj\Debug\netcoreapp2.2\MatrixCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetosDEV\MatrixCRUD\obj\Debug\netcoreapp2.2\MatrixCRUD.AssemblyInfoInputs.cache
+C:\MeusProjetosDEV\MatrixCRUD\obj\Debug\netcoreapp2.2\MatrixCRUD.AssemblyInfo.cs
+C:\MeusProjetosDEV\MatrixCRUD\obj\Debug\netcoreapp2.2\MatrixCRUD.csproj.CoreCompileInputs.cache

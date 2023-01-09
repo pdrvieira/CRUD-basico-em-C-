@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad8e264b-fe4a-4389-8d48-1238f6477453": {
+      "ProjectGuid": "ad8e264b-fe4a-4389-8d48-1238f6477453",
+      "DisplayName": "MatrixCRUD",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
